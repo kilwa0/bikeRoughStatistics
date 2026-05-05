@@ -1,187 +1,221 @@
 # Riesgos estadísticos del ciclismo en carretera, ciudad y montaña frente al coche
 
-## 1. Resumen ejecutivo
+## 1. Visión general
 
-- Por km recorrido, bici y coche tienen riesgos de muerte del mismo orden de magnitud (≈10⁻⁸ por km), con la bici normalmente entre ~2–3 veces más arriesgada que el coche en entornos poco amigables.[web:13][web:14][web:18]  
-- En la UE, ~65 % de las muertes ciclistas implican colisión con vehículos a motor; los coches solos aportan ~44 %.[web:3][web:79][web:81]  
-- En España, ~74 % de las muertes ciclistas se producen en vías interurbanas aunque muchas caídas/accidentes son urbanos.[web:114]  
-- BTT (XC/trail) genera más lesiones totales; carretera genera menos siniestros pero más graves y con más muertes por accidente.[web:122][web:133][web:145]  
-- El MTB downhill/bike‑park concentra un número llamativo de lesiones medulares permanentes en relación con otros deportes de riesgo.[web:138][web:146]  
+El objetivo de este informe es sintetizar los datos más relevantes sobre el riesgo de muerte o lesión grave/permanente asociado a:
 
----
+- Ciclismo en carretera frente a viajar en coche.
+- Ciclismo urbano frente a interurbano.
+- BTT (especialmente XC/trail y downhill/bike park) frente a ciclismo de carretera.
 
-## 2. Bici vs coche: riesgo de muerte por km
+Se priorizan tasas por distancia recorrida o por tiempo de práctica (p. ej. muertes o lesiones por 100 millones de km o por 1000 horas), y se destacan los porcentajes clave.
+
+***
+
+## 2. Riesgo de muerte por km: bici vs coche
 
 ### 2.1 Tasas de mortalidad por distancia recorrida
 
-| Modo / Contexto                    | Indicador                 | Valor aproximado                     | Fuentes                |
-|-----------------------------------|---------------------------|--------------------------------------|------------------------|
-| Coche (países ricos, general)     | Muertes / 100 M km        | 0,4–0,5                              | [web:18][web:25]       |
-| Bici (Canadá, uso diario)         | Muertes / 100 M km        | 3                                    | [web:13]               |
-| Peatón (Canadá, uso diario)       | Muertes / 100 M km        | 7                                    | [web:13]               |
-| Bici (rango países europeos)      | Muertes / 100 M km        | 0,8–5,1                              | [web:14]               |
+Estudios de referencia que comparan modos de transporte indican:
 
-- Estudio de Columbia Británica: 3 muertes ciclistas, 7 peatones y 1 conductor por cada 100 millones de km, respectivamente.[web:13]  
-- Informe ITF/OECD: países europeos con tasas ciclistas entre 0,8 y 5,1 muertes por 100 millones de km; vehículos motorizados en ~0,4–0,5.[web:14][web:18][web:25]  
+- En Columbia Británica (Canadá), análisis de viajes cotidianos encontró:
+  - **3 muertes de ciclistas por cada 100 millones de km** recorridos en bici.
+  - **7 muertes de peatones por cada 100 millones de km** caminados.
+  - **1 muerte de conductor por cada 100 millones de km** conducidos.[1]
+- En países europeos analizados por la ITF/OECD, las tasas de mortalidad ciclista se sitúan aproximadamente entre **0,8 y 5,1 muertes por cada 100 millones de km** recorridos en bici, según país.[2]
+- Para vehículos a motor en países OCDE, las tasas típicas rondan **0,4–0,5 muertes por cada 100 millones de km vehículo**, es decir, mismo orden de magnitud que las de la bici en muchos países.[3][4]
 
-Conclusión: por km, la bici suele estar entre ~2–3× el riesgo del coche, pero ambos siguen en probabilidades absolutas muy bajas.
+En términos de probabilidad por km, bici y coche están en el rango de \(10^{-8}\) muertes por km (0,000001% por km), con la bici a menudo entre **~2–3 veces** más arriesgada que el coche en entornos poco amigables, y muy similar en países ciclistas consolidados.[1][2]
 
-### 2.2 Probabilidad acumulada en “una vida de km”
+### 2.2 Probabilidad acumulada en una “vida ciclista”
 
-Ejemplo simplificado (orden de magnitud):
+Tomando como ejemplo 10 000 km/año durante 40 años (400 000 km de vida deportiva):
 
-- 10 000 km/año × 40 años = 400 000 km.  
-- Con 3 muertes/100 M km (bici): riesgo acumulado ≈ 1 %.[web:13]  
-- Con 1 muerte/100 M km (coche): riesgo acumulado ≈ 0,4 %.[web:13]  
+- Con una tasa de **3 muertes/100 millones de km** en bici:
+  - Riesgo acumulado aproximado de muerte en accidente de bici ≈ **1%** (orden de magnitud).
+- Con **1 muerte/100 millones de km** en coche para la misma distancia:
+  - Riesgo acumulado ≈ **0,4%**.
 
-Son cálculos gruesos pero ilustran que incluso con volúmenes altos el riesgo absoluto sigue siendo pequeño.
+Son estimaciones gruesas basadas en modelos de exposición, pero ilustran que el riesgo absoluto sigue siendo bajo incluso con muchos km, y que la diferencia bici–coche es de pocos puntos porcentuales, no de órdenes de magnitud.[2][1]
 
----
+***
 
-## 3. Qué mata a los ciclistas: coches vs caídas
+## 3. Causas de muertes ciclistas y papel de los vehículos a motor
 
-### 3.1 Porcentaje de muertes que implican vehículos a motor
+### 3.1 Proporción de muertes causadas por vehículos a motor
 
-En la UE, el ETSC y otros resúmenes recientes dan:
+Informes recientes del European Transport Safety Council (ETSC) y de la Comisión Europea indican que, en la UE:
 
-- **65 %** de las muertes ciclistas se deben a colisiones con vehículos a motor.[web:3][web:79][web:81]  
-  - **44 %** con turismos.[web:3][web:79][web:81]  
-  - **9 %** con camiones.[web:3][web:79][web:81]  
-  - **7 %** con furgonetas.[web:3][web:79][web:81]  
-- **≈28 %** de las muertes se producen sin otros vehículos (caídas, bordillos, etc.).[web:79][web:80][web:81]  
+- Aproximadamente **65% de las muertes de ciclistas** se deben a colisiones con vehículos a motor.[5][6]
+  - De ellas, ~**44%** involucran turismos.
+  - ~**9%** involucran camiones.
+  - ~**7%** involucran furgonetas y otros vehículos ligeros.[5]
+- Cerca de **28% de las muertes** de ciclistas corresponden a accidentes “en solitario” (caídas, choques con bordillos u objetos fijos, sin otro vehículo implicado).[6][7]
 
-Interpretación: de cada 3 muertes por 100 M km en bici, ~2 vienen de interacción con motor y ~1 de “hostia solo”.
+En términos de las tasas de la sección 2, si se asumen **3 muertes/100 millones de km** en bici:
 
-### 3.2 Responsabilidad típica en choques bici‑coche
+- ~**2 de cada 3** muertes (≈2/3 de 3) serían atribuibles a interacción con vehículos a motor, es decir, ~**2 muertes/100 millones de km**.
+- ~**1 de cada 3** sería por caída o impacto sin vehículo implicado, es decir, ~**1 muerte/100 millones de km** incluso sin tráfico motorizado.
 
-Datos con culpabilidad codificada:
+### 3.2 Responsabilidad en colisiones bici‑coche
 
-- Arizona (EE. UU., 2009): 56 % de muertes bici‑coche atribuidas a conductor, 44 % a ciclista.[web:97]  
-- Minnesota (EE. UU., 2009): ciclistas culpables en 49 % de siniestros, conductores en 51 %.[web:97]  
-- Resúmenes europeos citan que ≈70 % de los accidentes con ciclistas están causados por infracciones del conductor (no respetar prioridad, adelantamientos), aunque no es cifra armonizada UE‑27.[web:5][web:3]  
+Los datos sobre “culpa” legal dependen del país, pero algunos estudios ilustrativos muestran:
 
-En peatones en España:
+- En Arizona (EE. UU., 2009), el **56%** de las muertes en choques bici‑coche se atribuyeron principalmente al conductor y el **44%** al ciclista.[8]
+- En Minnesota (EE. UU., 2009), los ciclistas fueron considerados culpables en el **49%** de los siniestros y los conductores en el **51%**.[8]
+- Resúmenes europeos citados por ETSC y autoridades nacionales estiman que **en torno al 70% de los accidentes con ciclistas están causados por infracciones de los conductores** (no respetar prioridad, adelantamientos incorrectos), aunque este 70% no es una estadística armonizada para toda la UE, sino una agregación de estudios nacionales.[9][5]
 
-- 7 de cada 10 peatones muertos no habían cometido infracciones, lo que refuerza que el vulnerable suele no ser la causa principal.[web:101]  
+En España, estudios sobre peatones sugieren un patrón similar para usuarios vulnerables:
 
----
+- Aproximadamente **7 de cada 10 peatones muertos** en accidentes de tráfico en España no habían cometido ninguna infracción, lo que indica que la víctima vulnerable suele no ser la principal causante del siniestro mortal.[10]
 
-## 4. Urbana vs interurbana: ¿dónde es peor?
+Varios marcos legales europeos introducen además un principio de **responsabilidad reforzada del vehículo más peligroso**, que hace que, en colisiones coche–peatón/ciclista, el conductor soporte una mayor carga de responsabilidad civil por el riesgo objetivo que genera.[11]
 
-### 4.1 Reparto urbano / rural de muertes ciclistas
+***
 
-| Región       | Urbana (% muertes ciclistas) | Rural/interurbana (% muertes ciclistas) | Comentario                                        | Fuentes             |
-|--------------|------------------------------|------------------------------------------|---------------------------------------------------|---------------------|
-| UE (aprox.)  | ~58 %                        | ~42 %                                    | Más exposición en ciudad                          | [web:84][web:91]    |
-| EE. UU.      | >80 %                        | <20 %                                    | Fuerte urbanización del ciclismo                  | [web:118]           |
-| España 2022  | ~26 %                        | ~74 %                                    | Pocas muertes ciclistas en urbana, muchas en interurbana | [web:114]    |
+## 4. Urbana vs interurbana: dónde es estadísticamente más peligroso
 
-En España:
+### 4.1 Distribución de muertes de ciclistas por tipo de vía
 
-- 81 ciclistas fallecidos en 2022; ~74 % en vías interurbanas.[web:114]  
-- Globalmente, solo ~34–37 % de accidentes con víctimas son en interurbanas, pero concentran 70–73 % de las muertes de todos los usuarios.[web:114][web:9][web:119]  
+En la Unión Europea:
 
-### 4.2 Riesgo por km y letalidad
+- Aproximadamente **58%** de las muertes de ciclistas ocurren en vías urbanas y **~42%** en vías rurales/interurbanas.[7][12]
+- En EE. UU., más del **80% de las muertes de ciclistas** se registran hoy en día en zona urbana, frente a un reparto aproximado 50/50 en los años 70.[13]
 
-Para todo tipo de vehículos en EE. UU.:
+En España (datos DGT 2020–2022):
 
-- 1,07 muertes por 100 M millas en urbano vs 1,65 en rural → ≈54 % más riesgo de muerte por km en rural.[web:109]  
+- Solo alrededor del **34–37%** de los accidentes con víctimas se producen en vías interurbanas, pero estas concentran **~70–73% de las muertes totales** de tráfico (todos los usuarios).[14][15][16]
+- Para ciclistas, en 2022 se registraron **81 ciclistas fallecidos**, de los cuales **~74% murieron en vías interurbanas** y solo ~26% en urbanas.[15]
 
-Informes europeos:
+### 4.2 Riesgo por km: letalidad urbana vs interurbana
 
-- La mayoría de muertes en rural ocurren en carreteras de 80–90 km/h o más, con impacto a alta velocidad, especialmente letal para ciclistas.[web:112][web:86]  
+La clave está en la exposición y la velocidad:
 
-Conclusión:  
+- En EE. UU., las tasas de mortalidad para todo tipo de vehículos son de aproximadamente **1,65 muertes por 100 millones de millas en carreteras rurales** frente a **1,07 en zonas urbanas**, lo que indica un **~54% más de riesgo de muerte por km** en rural.[17]
+- Informes europeos sobre seguridad en áreas rurales señalan que la mayoría de muertes en vías rurales se producen en carreteras con límites de **80–90 km/h o superiores**, donde las colisiones tienen una probabilidad mucho mayor de resultar mortales, especialmente para ciclistas y peatones.[18][19]
 
-- En **número absoluto**, se registran más muertes ciclistas en urbano en algunos países (EE. UU.), porque ahí se pedalea más.  
-- En **riesgo por km**, las vías **interurbanas/rurales** son claramente más letales: menos siniestros, pero mucha más probabilidad de que sean mortales.
+Combinando estos datos, la conclusión es:
 
----
+- En **número absoluto**, hoy se registran más muertes de ciclistas en entornos urbanos (sobre todo en países como EE. UU.), porque es donde más se pedalea.
+- En **riesgo por km recorrido**, las vías **interurbanas/rurales son notablemente más letales**: menos siniestros, pero con velocidades más altas y mayor probabilidad de muerte cuando sucede el accidente.[18][17][15]
 
-## 5. Carretera vs BTT: lesiones, gravedad y secuelas
+***
 
-### 5.1 Frecuencia de accidentes
+## 5. Carretera vs BTT: frecuencia, gravedad y lesiones permanentes
 
-Estudio prospectivo hospitalario (Barcelona, 149 urgencias por bici):[web:122][web:133][web:145]
+### 5.1 Frecuencia de accidentes (todas las lesiones)
 
-| Disciplina | % accidentes   | Comentarios clave                                             |
-|-----------|----------------|---------------------------------------------------------------|
-| MTB/BTT   | **67 %**       | Mayoría caídas o pérdida de control (≈79 % sin otros vehículos) |
-| Carretera | **33 %**       | Menos siniestros, más implicación de motor (≈30 %)           |
+Un estudio prospectivo realizado en Barcelona (Scientific Reports, 2025) analizó 149 ingresos de urgencias por accidentes de bicicleta y encontró:[20][21][22]
 
-Otros datos de MTB:
+- **67%** de los accidentes correspondían a **MTB/BTT**.
+- **33%** correspondían a **ciclismo de carretera**.
+- La mayoría de siniestros MTB eran caídas por pérdida de control o problemas con el terreno; ~79% no implicaban otros vehículos.[21][20]
 
-- DH/descenso con tasas de hasta **16,8 lesiones por 1000 horas** de práctica.[web:123]  
-- Entre 50–80 % de practicantes de MTB refieren alguna lesión relevante a lo largo de su “carrera” deportiva.[web:134]  
+Otros estudios de downhill MTB reportan tasas de:
 
-Conclusión: por hora/año de práctica, el BTT genera más piños en total.
+- Hasta **16,8 lesiones por 1000 horas de práctica** en contextos de descenso, con alta proporción de fracturas y traumatismos.[23]
+- En aficionados y élite, entre **50–80% de los practicantes** refieren alguna lesión relevante a lo largo de su vida deportiva.[24]
 
-### 5.2 Gravedad y mortalidad: carretera vs BTT
+En resumen, por hora de práctica o por temporada, el BTT (especialmente si incluye descenso técnico) produce **más lesiones en total** que la carretera.[23][24]
 
-En el mismo estudio de Barcelona:[web:122][web:129][web:145]
+### 5.2 Gravedad y mortalidad
 
-| Disciplina | % accidentes | ISS mediano | % con motor implicado | Muertes en la muestra |
-|-----------|--------------|------------|------------------------|-----------------------|
-| MTB/BTT   | 67 %         | 4          | ≈21 %                  | 0                     |
-| Carretera | 33 %         | 6          | ≈30 %                  | 1 (100 % de las muertes) |
+Sin embargo, la gravedad de las lesiones presenta un patrón distinto:
 
-- Las lesiones de carretera fueron **más graves** (ISS 6 vs 4) y con mayor proporción de traumatismos craneales y torácicos.[web:122][web:129]  
-- La única muerte fue carretera, por TCE grave.[web:122][web:129]  
+- En el estudio de Barcelona, aunque la mayoría de accidentes eran MTB, las lesiones de **carretera** tenían **mayor gravedad**:
+  - **ISS (Injury Severity Score) mediano de 6** en carretera vs **4** en MTB.
+  - Más traumatismos craneales y torácicos severos en carretera.[25][22][20]
+- La **única muerte del estudio** fue un ciclista de carretera con traumatismo craneoencefálico grave.[20][25]
+- Aproximadamente **30% de los accidentes de carretera** implicaban colisión con vehículos a motor, lo que explica la mayor severidad pese a ser menos frecuentes.[26][20]
 
-Conclusión: si “peligro” = probabilidad de muerte o poli‑trauma por siniestro, la **carretera con tráfico** es más peligrosa que el BTT XC/trail.
+Esto sugiere que, si “peligroso” se define como *probabilidad de muerte o poli‑trauma grave por unidad de exposición*, el ciclismo de **carretera con tráfico** es globalmente más peligroso que el BTT recreativo estándar (XC/trail).[26][20]
 
-### 5.3 Lesiones permanentes: medulares y similares
+### 5.3 Lesiones medulares y discapacidad permanente
 
-Registros recientes destacan el papel del MTB, sobre todo en modalidades extremas:
+En cuanto a lesiones medulares y discapacidad permanente, el MTB (especialmente en modalidades extremas) destaca:
 
-- En un registro canadiense de lesiones medulares, el MTB generó **58 lesiones medulares** en un periodo de varios años, más que hockey, esquí y otros deportes de riesgo.[web:138][web:139][web:146]  
-- Muchas de estas lesiones fueron tetraplejias/paraplejias permanentes.[web:138][web:146]  
+- Un registro canadiense reciente de lesiones medulares mostró que, en un periodo de varios años, **el MTB generó 58 lesiones medulares**, superando a deportes tradicionalmente considerados muy peligrosos como hockey, esquí y snowboard.[27][28]
+- Muchas de estas lesiones implicaban tetraplejia o paraplejia permanentes.[29][27]
+- Estudios de caso y series hospitalarias enfatizan que el riesgo de lesión medular se concentra en **downhill/bike park**, saltos y zonas técnicas de alta velocidad; en XC/trail recreativo, el número absoluto de lesiones medulares es mucho menor, aunque no nulo.[30][29]
 
-En MTB recreativo XC/trail:
+Por tanto:
 
-- La mayoría de lesiones son fracturas, contusiones, abrasiones; el número absoluto de medulares es menor, aunque no nulo.[web:127][web:146]  
+- **Carretera + tráfico** → menos accidentes, pero **más probabilidad de muerte o poli‑trauma grave por siniestro**.
+- **MTB XC/trail** → más caídas y fracturas, pero menor probabilidad de muerte; riesgo de lesión permanente más bajo que en downhill.
+- **MTB downhill/bike park** → volumen de accidentes menor que en XC, pero **proporción relativamente alta de lesiones medulares y discapacidades permanentes** respecto al total de practicantes.[27][29][20]
 
-Ranking de riesgo de muerte / secuela permanente, a igualdad de horas a grandes rasgos:
+Un ranking razonable de riesgo de muerte o lesión permanente sería:
 
-1. **MTB downhill / bike‑park** (alta probabilidad relativa de TCE/lesión medular grave cuando se cae).[web:138][web:146]  
-2. **Carretera con tráfico rápido/interurbano** (alto riesgo de muerte o poli‑trauma grave si hay impacto con motor).[web:122][web:114]  
-3. **MTB XC / trail recreativo** (más caídas, menor proporción de secuelas permanentes).[web:123][web:127]  
+1. **MTB downhill / bike park** (alta probabilidad relativa de lesiones medulares y TCE graves por hora de práctica).[29][27]
+2. **Carretera con tráfico rápido/interurbano** (alto riesgo de muerte o poli‑trauma por colisión con vehículos a 80–90 km/h).[15][20]
+3. **MTB XC/trail recreativo** (más lesiones totales pero menor proporción de lesiones permanentes graves).[30][23]
 
----
+***
 
-## 6. Tabla resumen de conclusiones clave
+## 6. Síntesis numérica en tablas
 
-| Pregunta                                         | Conclusión estadística (simplificada)                                                                                   | Fuentes                           |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| Bici vs coche por km                            | Bici ≈2–3× más riesgo de muerte por km que coche, pero mismo orden de magnitud y riesgo absoluto muy bajo.             | [web:13][web:14][web:18]          |
-| Quién causa más muertes ciclistas               | ≈65 % de muertes ciclistas por colisión con motor; turismos 44 %, camiones 9 %, furgos 7 %.                             | [web:3][web:79][web:81]           |
-| Urbana vs interurbana (ciclistas)               | Más muertes en urbano en algunos países en valor absoluto, pero por km la interurbana/rural es claramente más letal.   | [web:114][web:109][web:84]        |
-| Carretera vs BTT (frecuencia de lesión)         | BTT (sobre todo XC/trail y DH) genera más lesiones totales por hora / temporada.                                        | [web:122][web:123][web:134]       |
-| Carretera vs BTT (muerte / lesión muy grave)    | Carretera con tráfico produce menos accidentes pero más graves y con mayor mortalidad por siniestro.                   | [web:122][web:129][web:145]       |
-| Disciplina con más riesgo medular permanente    | MTB downhill/bike‑park destaca en número de lesiones medulares frente a otros deportes de riesgo.                      | [web:138][web:139][web:146]       |
+### 6.1 Riesgo de muerte por modo de transporte (orden de magnitud)
 
----
+| Modo / Contexto                              | Indicador                                    | Valor aproximado                                  | Fuente |
+|----------------------------------------------|----------------------------------------------|---------------------------------------------------|--------|
+| Coche (países ricos, uso general)           | Muertes / 100 M km                           | **0,4–0,5**                                       | [3][4] |
+| Bici (Canadá, uso diario)                   | Muertes / 100 M km                           | **3**                                             | [1] |
+| Peatón (Canadá, uso diario)                 | Muertes / 100 M km                           | **7**                                             | [1] |
+| Bici (países europeos, rango)               | Muertes / 100 M km                           | **0,8–5,1**                                       | [2] |
+| Vehículos (EE. UU., urbano)                 | Muertes / 100 M millas                       | **1,07**                                          | [17] |
+| Vehículos (EE. UU., rural)                  | Muertes / 100 M millas                       | **1,65**                                          | [17] |
+
+### 6.2 Distribución de muertes de ciclistas por tipo de vía
+
+| Región             | Urbana (% muertes ciclistas) | Rurales/interurbanas (% muertes ciclistas) | Comentario                                     | Fuente |
+|--------------------|------------------------------|---------------------------------------------|------------------------------------------------|--------|
+| UE (aprox.)        | ~58%                        | ~42%                                       | Más exposición en ciudad                       | [7][12] |
+| EE. UU. (2023)     | >80%                        | <20%                                       | Fuerte urbanización del ciclismo               | [13] |
+| España (2022)      | ~26%                        | ~74%                                       | Pocas muertes en urbana, muchas en interurbana | [15] |
+
+### 6.3 BTT vs carretera (urgencias hospitalarias, Barcelona)
+
+| Disciplina       | Porcentaje de accidentes | ISS mediano | % implican vehículos a motor | Muertes en muestra | Fuente |
+|------------------|--------------------------|------------|------------------------------|--------------------|--------|
+| MTB/BTT          | **67%**                 | 4          | ~21%                        | 0                  | [20][21][22] |
+| Carretera        | **33%**                 | 6          | ~30%                        | 1 (100% de las muertes) | [20][25][22] |
+
+### 6.4 Lesiones medulares asociadas a MTB
+
+| Deporte           | Nº lesiones medulares (serie) | Comentario                                              | Fuente |
+|-------------------|-------------------------------|---------------------------------------------------------|--------|
+| MTB (Canadá, varios años) | **58**                         | Más que hockey, esquí y otros deportes de alto riesgo | [27][28][29] |
+
+***
 
 ## 7. Fiabilidad de las fuentes
 
-### 7.1 Tipos de fuentes y fiabilidad
+### 7.1 Clasificación por tipo de fuente
 
-| Tipo de fuente                                         | Ejemplos                                                   | Fiabilidad estimada                                      |
-|--------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------|
-| Organismos oficiales (DGT, Comisión Europea, ITF/OECD) | DGT España, ERSO, ITF/OECD, IIHS                          | **Alta** (datos primarios de siniestralidad y exposición) |
-| Organismos de seguridad vial / ONGs técnicas           | ETSC, League of American Bicyclists                       | **Alta** (síntesis técnica de datos oficiales)          |
-| Revistas científicas revisadas por pares               | Scientific Reports, Sci Rep., estudios MTB/medular        | **Alta** (método explícito, revisión por pares)         |
-| Divulgación basada en esos estudios                    | Bicycling, BrujulaBike, Silent Sports, ZAG Daily          | **Media** (resumen fiel si enlazan al original)         |
-| Blogs / despachos / artículos legales                  | Análisis de culpa en choques bici‑coche                   | **Media/Baja** (contexto útil, cifras a tomar con cautela) |
+| Tipo de fuente                                         | Ejemplos principales                                          | Fiabilidad estimada |
+|--------------------------------------------------------|----------------------------------------------------------------|----------------------|
+| Organismos oficiales de tráfico / seguridad vial       | DGT España, European Commission – ERSO, ITF/OECD, IIHS        | **Alta**             |
+| Organismos de investigación y consejos de seguridad    | ETSC (European Transport Safety Council), League of American Bicyclists | **Alta**    |
+| Revistas científicas revisadas por pares               | Scientific Reports, BMJ Open Sports & Exercise, estudios MTB/lesión medular | **Alta** |
+| Artículos de divulgación basados en estudios científicos | Resúmenes en medios especializados (Bicycling, Silent Sports, Brujula Bike) | **Media** (derivados de originales) |
+| Blogs, despachos de abogados, notas de prensa          | Artículos sobre culpa legal en choques bici‑coche             | **Media/Baja** (válidas para contexto, no para cifras finas) |
 
-### 7.2 Fiabilidad de los porcentajes usados
+### 7.2 Evaluación de las cifras clave usadas
 
-- **Tasas de muertes por 100 M km (bici, coche, peatón)** → estudios académicos y análisis de encuestas nacionales de viaje; fiabilidad **alta** como orden de magnitud, con variación entre países.[web:13][web:14]  
-- **Rango 0,8–5,1 muertes/100 M km en bici en Europa** → ITF/OECD, fiabilidad **alta** para comparación relativa; los km recorridos tienen algo más de incertidumbre que las muertes.[web:14]  
-- **65 % de muertes ciclistas con motor implicado; 44/9/7 % coche/camión/furgo** → ETSC + ecos en prensa técnica, fiabilidad **alta** como cifra UE.[web:3][web:79][web:81]  
-- **74 % de muertes ciclistas en interurbanas en España** → DGT 2022, fiabilidad **alta**.[web:114]  
-- **Carretera 33 % de casos pero ISS más alto y única muerte en la muestra** → estudio Sci Rep. (Barcelona), fiabilidad **alta** para el perfil de lesionados que llegan a ese hospital; no representa necesariamente toda la población ciclista.[web:122][web:145]  
-- **58 lesiones medulares asociadas a MTB** → registro de lesiones medulares (Canadá), fiabilidad **alta** sobre magnitud relativa frente a otros deportes; no hay buena medida de horas de exposición, así que el riesgo “por hora” es más incierto.[web:138][web:146]  
-- **Datos de responsabilidad legal (56/44 %, 51/49 %, ~70 % conductor)** → estadísticas regionales y análisis jurídicos; fiabilidad **media** y aplicabilidad limitada a esos sistemas legales concretos.[web:97][web:5][web:101]  
+- **Tasas de muertes por 100 millones de km (bici, coche, peatón)**: proceden de estudios académicos revisados por pares y análisis de grandes encuestas de movilidad (p. ej. “Risks of cycling, walking and driving put in context”). Fiabilidad **alta**, aunque con limitaciones de generalización geográfica.[1]
+- **Rango 0,8–5,1 muertes/100 M km para ciclistas en Europa**: basado en informe ITF/OECD sobre tasas de mortalidad ajustadas por exposición. Fiabilidad **alta** para comparación entre países, con advertencias sobre calidad de datos de km recorridos.[2]
+- **Porcentaje de muertes de ciclistas implicando vehículos a motor (~65%)**: basado en informes recientes del ETSC y de la Comisión Europea; fiabilidad **alta** como orden de magnitud para la UE, pudiendo variar por país.[6][7][5]
+- **Distribución urbana/interurbana en España (74% de muertes ciclistas en interurbanas)**: datos de la DGT, considerados de fiabilidad **alta** para el contexto español.[15]
+- **Frecuencias y gravedad de lesiones carretera vs MTB (Barcelona)**: estudio observacional en entorno hospitalario, revisado por pares. Muestra limitada pero metodología sólida; fiabilidad **alta** para el tipo de pacientes que llegan a urgencias, no necesariamente para todos los ciclistas de la calle.[22][20]
+- **Lesiones medulares por MTB (58 casos en Canadá)**: serie clínica especializada, con fiabilidad **alta** para la magnitud relativa frente a otros deportes, pero sin poder ofrecer tasas precisas por hora de práctica dado que la exposición es difícil de medir.[27][29]
+- **Porcentajes de responsabilidad legal (56/44%, 51/49%, ~70% conductor)**: proceden de estudios y estadísticas judiciales/administrativas en regiones concretas y resúmenes doctrinales; fiabilidad **media** y aplicabilidad limitada a contextos jurídicos específicos.[9][10][8]
 
----
+***
+
+## 8. Conclusiones principales
+
+1. **Bici vs coche por km**: las tasas de muerte están en el mismo orden de magnitud (\(10^{-8}\) por km), con la bici normalmente **entre ~2 y 3 veces** más arriesgada por km que el coche en entornos poco amigables, y muy similar en países con buena infraestructura ciclista.[3][1][2]
+2. **Papel de los coches en las muertes ciclistas**: alrededor del **65% de las muertes** de ciclistas en la UE implican colisión con vehículos a motor, y diversas fuentes sitúan la responsabilidad legal principalmente en el conductor en **más de la mitad** de los casos, llegando a ~70% en algunos análisis.[5][9][6]
+3. **Urbana vs interurbana**: en número absoluto puede haber más muertes en ciudad, pero **por km recorrido las vías interurbanas/rurales son claramente más letales**, concentrando ~70–74% de las muertes ciclistas en España pese a ser minoría de los siniestros.[17][15]
+4. **BTT vs carretera**: el BTT (especialmente XC/trail) genera **más accidentes y lesiones totales**, pero el ciclismo de **carretera con tráfico** produce **lesiones más graves y mayor probabilidad de muerte** por siniestro. El MTB downhill/bike park añade un riesgo notable de **lesiones medulares permanentes**, superior al de otros deportes de riesgo.[22][20][27]
+5. **Riesgo global para un ciclista de alto volumen**: incluso con 10 000 km/año durante décadas, la probabilidad absoluta de muerte en bicicleta sigue en el rango de **pocos puntos porcentuales o menos**, y los beneficios de salud asociados a la práctica regular de ciclismo superan ampliamente los riesgos de siniestro en la mayoría de análisis epidemiológicos.[1]
