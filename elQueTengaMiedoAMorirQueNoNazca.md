@@ -10,6 +10,7 @@
 - [6. Síntesis numérica en tablas](#6-síntesis-numérica-en-tablas)
 - [7. Fiabilidad de las fuentes](#7-fiabilidad-de-las-fuentes)
 - [8. Conclusiones principales](#8-conclusiones-principales)
+- [9. Sueño de un ciclista delirante](#9-sueño-de-un-ciclista-delirante)
 
 ## 1. Visión general
 
@@ -237,6 +238,71 @@ Un ranking razonable de riesgo de muerte o lesión permanente sería:
 4. **BTT vs carretera**: el BTT (especialmente XC/trail) genera **más accidentes y lesiones totales**, pero el ciclismo de **carretera con tráfico** produce **lesiones más graves y mayor probabilidad de muerte** por siniestro. El MTB downhill/bike park añade un riesgo notable de **lesiones medulares permanentes**, superior al de otros deportes de riesgo.[^23][^21][^28]
 5. **Riesgo global para un ciclista de alto volumen**: incluso con 10 000 km/año durante décadas, la probabilidad absoluta de muerte en bicicleta sigue en el rango de **pocos puntos porcentuales o menos**, y los beneficios de salud asociados a la práctica regular de ciclismo superan ampliamente los riesgos de siniestro en la mayoría de análisis epidemiológicos.[^1]
 
+***
+
+## 9. Sueño de un ciclista delirante
+
+Este apartado plantea un escenario deliberadamente irreal para tener una intuición de probabilidades acumuladas en toda una vida de kilómetros.
+
+### 9.1 Supuestos
+
+- "Persona media" en coche:
+  - Recorre aproximadamente **1 000 000 km** a lo largo de la vida adulta.
+  - Riesgo de muerte en coche: **0,5 muertes / 100 millones de km** (0,5·10⁻⁸ por km), valor medio típico para coches en países ricos.[^4][^3]
+- Ciclista de carretera "delirante":
+  - Ya ha recorrido **30 000 km**.
+  - A partir de los 48 años mantiene **7 000 km/año** durante 36 años → **≈280 000 km** totales en bici.
+  - Riesgo bici total (mundo real, con coches): **3 muertes / 100 millones de km** (3·10⁻⁸ por km).[^1]
+  - Riesgo bici sin motor (solo caídas/errores propios): **1 muerte / 100 millones de km** (1·10⁻⁸ por km), si se elimina el ~65% de muertes con vehículos a motor implicados.[^8][^6]
+
+### 9.2 Probabilidades aproximadas
+
+Usando la aproximación \(p ≈ λ = \text{tasa} × \text{distancia}\) (válida porque las probabilidades son muy pequeñas):
+
+- **En coche (1 000 000 km)**:
+  - \(λ_c ≈ 0,5·10^{-8} × 10^{6} = 0,005\).
+  - Probabilidad de morir en accidente de coche ≈ **0,5%**.
+- **En bici de carretera, escenario realista (280 000 km, con coches)**:
+  - \(λ_b ≈ 3·10^{-8} × 2,8·10^{5} ≈ 0,0084\).
+  - Probabilidad de morir en accidente de bici ≈ **0,8–0,9%**.
+- **En bici de carretera, mundo sin coches (280 000 km, solo caídas)**:
+  - \(λ_{b0} ≈ 1·10^{-8} × 2,8·10^{5} ≈ 0,0028\).
+  - Probabilidad de morir solo por caídas ≈ **0,3%**.
+
+### 9.3 Lectura de este escenario
+
+- A igualdad de km planteados, **el coche tendría ≈0,5% de probabilidad de muerte**, la bici de carretera **≈0,8–0,9% en el mundo real**, y **≈0,3% en un mundo sin coches**.[^3][^6][^1]
+- La conclusión clave es que el salto grande de riesgo en bici viene de la interacción con vehículos a motor (pasas de ~1 a ~3 muertes/100 M km), pero incluso sin motor el riesgo "base" por caídas nunca es cero, sólo muy pequeño.[^6][^8][^1]
+- Todo ello se mueve en probabilidades absolutas muy bajas; la diferencia entre 0,3%, 0,5% y 0,9% en toda una vida de km es real, pero pequeña comparada con los beneficios de salud asociados a pedalear.
+
+### 9.4 Motociclista en el mismo delirio
+
+Para completar el cuadro, se añade el caso de un motorista bajo supuestos similares, usando como referencia tasas estadounidenses recientes:
+
+- Tasa de mortalidad de motoristas: **≈31 muertes / 100 millones de millas** recorridas, frente a **≈1,1 muertes / 100 millones de millas** para ocupantes de coche (≈28 veces más por unidad de distancia).[^32][^33][^34]
+- En la UE, alrededor de **37%** de las muertes de motoristas son en accidentes unilaterales (sin otros vehículos ni peatones implicados).[^35]
+
+Usando los mismos **280 000 km** del ciclista delirante (≈174 000 millas):
+
+- **Moto, mundo real (todos los accidentes):**
+  - Factor de exposición: 174 000 / 100 000 000 ≈ 0,00174.
+  - \(λ_{m} ≈ 31 · 0,00174 ≈ 0,054\).
+  - Probabilidad de morir en moto en esos 280 000 km ≈ **5%**.
+- **Moto, mundo sin otros vehículos a motor (solo accidentes unilaterales):**
+  - Tasa reducida a la parte unilateral: 31 · 0,37 ≈ **11,5 muertes / 100 millones de millas**.[^36][^37][^35]
+  - \(λ_{m0} ≈ 11,5 · 0,00174 ≈ 0,020\).
+  - Probabilidad de morir en moto por accidente “solo” (sin otros vehículos a motor implicados) en 280 000 km ≈ **2%**.
+
+En este escenario delirante concreto:
+
+- **Coche (1 000 000 km):** ≈0,5% de probabilidad de muerte.
+- **Bici carretera (280 000 km, mundo real):** ≈0,8–0,9%.
+- **Bici carretera (280 000 km, sin coches):** ≈0,3%.
+- **Moto (280 000 km, mundo real):** ≈5%.
+- **Moto (280 000 km, solo accidentes unilaterales):** ≈2%.
+
+Son números toscos, desde datos de países distintos y suponiendo tasas constantes, pero ilustran que a misma distancia recorrida la moto está varios órdenes por encima de la bici y del coche en probabilidad acumulada de muerte, incluso en un mundo imaginario sin otros vehículos a motor implicados.
+
 ---
 
 ## References
@@ -302,4 +368,16 @@ Un ranking razonable de riesgo de muerte o lesión permanente sería:
 30. [Spinal Cord Injuries Secondary to Mountain Biking Accidents - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC12952714/) - The most common associated injuries in our cohort were thoracic injuries, upper extremity fractures,...
 
 31. [Mountain Biking Injuries: New Study Warns of Spinal Injuries](https://www.bicycling.com/health-nutrition/a63205740/mountain-biking-injuries-study/) - A new study from Canada found that mountain biking contributed the most to spinal cord injuries from...
+
+32. [Motorcycle Vs. Car Accidents: What Statistics Reveal](https://www.lawofficesofdeanhfreeman.com/motorcycle-vs-car-accidents-what-statistics-reveal/) - In 2022, motorcycles caused 14.6 percent of traffic deaths, though they represent only a sliver of t...
+
+33. [Motorcycles - Injury Facts - National Safety Council](https://injuryfacts.nsc.org/motor-vehicle/road-users/motorcycles/) - The number of motorcycle fatalities now stands at 6,228 and the rate is 28.00 per 100 million vehicl...
+
+34. [Motorcycles](https://www.iihs.org/research-areas/motorcycles) - Information from IIHS-HLDI on motorcycles
+
+35. [European Road Safety Observatory](https://road-safety.transport.ec.europa.eu/system/files/2023-02/ff_p2w_bis_20230213.pdf)
+
+36. [Understanding the Problem | NHTSA](https://www.nhtsa.gov/book/countermeasures-that-work/motorcycle-safety/understanding-problem) - While motorcycles are often grouped into one vehicle type, there is significant diversity in the typ...
+
+37. [Fatal single vehicle motorcycle crashes - ROSA P](https://rosap.ntl.bts.gov/view/dot/6426) - More than 38,000 motorcyclists have died in single vehicle motorcycle crashes between 1975 and 1999....
 
