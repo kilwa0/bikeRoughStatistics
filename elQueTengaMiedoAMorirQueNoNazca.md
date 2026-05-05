@@ -3,7 +3,7 @@
 ## Tabla de contenidos
 
 - [1. Visión general](#1-visión-general)
-- [2. Riesgo de muerte por km: bici vs coche](#2-riesgo-de-muerte-por-km-bici-vs-coche)
+- [2. Riesgo de muerte por km: bici, coche y moto](#2-riesgo-de-muerte-por-km-bici-coche-y-moto)
 - [3. Causas de muertes ciclistas y papel de los vehículos a motor](#3-causas-de-muertes-ciclistas-y-papel-de-los-vehículos-a-motor)
 - [4. Urbana vs interurbana: dónde es estadísticamente más peligroso](#4-urbana-vs-interurbana-dónde-es-estadísticamente-más-peligroso)
 - [5. Carretera vs BTT: frecuencia, gravedad y lesiones permanentes](#5-carretera-vs-btt-frecuencia-gravedad-y-lesiones-permanentes)
@@ -24,7 +24,7 @@ Se priorizan tasas por distancia recorrida o por tiempo de práctica (p. ej. mue
 
 ***
 
-## 2. Riesgo de muerte por km: bici vs coche
+## 2. Riesgo de muerte por km: bici, coche y moto
 
 ### 2.1 Tasas de mortalidad por distancia recorrida
 
@@ -180,6 +180,7 @@ Un ranking razonable de riesgo de muerte o lesión permanente sería:
 | Bici (Canadá, uso diario)                   | Muertes / 100 M km                           | **3**                                             | [^1] |
 | Peatón (Canadá, uso diario)                 | Muertes / 100 M km                           | **7**                                             | [^1] |
 | Bici (países europeos, rango)               | Muertes / 100 M km                           | **0,8–5,1**                                       | [^2] |
+| Moto (EE. UU./Europa, orden de magnitud)    | Muertes / 100 M km (equivalente)             | **≈10–20** (≈20–40× coche; ≈5–10× bici)           | [^32][^33][^34] |
 | Vehículos (EE. UU., urbano)                 | Muertes / 100 M millas                       | **1,07**                                          | [^18] |
 | Vehículos (EE. UU., rural)                  | Muertes / 100 M millas                       | **1,65**                                          | [^18] |
 
@@ -232,11 +233,12 @@ Un ranking razonable de riesgo de muerte o lesión permanente sería:
 
 ## 8. Conclusiones principales
 
-1. **Bici vs coche por km**: las tasas de muerte están en el mismo orden de magnitud (\(10^{-8}\) por km), con la bici normalmente **entre ~2 y 3 veces** más arriesgada por km que el coche en entornos poco amigables, y muy similar en países con buena infraestructura ciclista.[^3][^1][^2]
+1. **Bici vs coche (y moto) por km**: las tasas de muerte de bici y coche están en el mismo orden de magnitud (\(10^{-8}\) por km), con la bici normalmente **entre ~2 y 3 veces** más arriesgada por km que el coche en entornos poco amigables, mientras que la moto se sitúa **decenas de veces por encima del coche** y varias veces por encima de la bici.[^33][^34][^3][^1][^2]
 2. **Papel de los coches en las muertes ciclistas**: alrededor del **65% de las muertes** de ciclistas en la UE implican colisión con vehículos a motor, y diversas fuentes sitúan la responsabilidad legal principalmente en el conductor en **más de la mitad** de los casos, llegando a ~70% en algunos análisis.[^5][^10][^6]
 3. **Urbana vs interurbana**: en número absoluto puede haber más muertes en ciudad, pero **por km recorrido las vías interurbanas/rurales son claramente más letales**, concentrando ~70–74% de las muertes ciclistas en España pese a ser minoría de los siniestros.[^18][^16]
 4. **BTT vs carretera**: el BTT (especialmente XC/trail) genera **más accidentes y lesiones totales**, pero el ciclismo de **carretera con tráfico** produce **lesiones más graves y mayor probabilidad de muerte** por siniestro. El MTB downhill/bike park añade un riesgo notable de **lesiones medulares permanentes**, superior al de otros deportes de riesgo.[^23][^21][^28]
-5. **Riesgo global para un ciclista de alto volumen**: incluso con 10 000 km/año durante décadas, la probabilidad absoluta de muerte en bicicleta sigue en el rango de **pocos puntos porcentuales o menos**, y los beneficios de salud asociados a la práctica regular de ciclismo superan ampliamente los riesgos de siniestro en la mayoría de análisis epidemiológicos.[^1]
+5. **Moto como referencia de riesgo alto**: incluso con volúmenes de km similares al ciclista delirante, la probabilidad acumulada de muerte en moto es varios puntos porcentuales (≈5% en el ejemplo), muy por encima de coche y bici, y seguiría siendo del orden de **~2%** incluso considerando solo accidentes unilaterales.[^32][^34][^35][^33]
+6. **Riesgo global para un ciclista de alto volumen**: incluso con 10 000 km/año durante décadas, la probabilidad absoluta de muerte en bicicleta sigue en el rango de **pocos puntos porcentuales o menos**, y los beneficios de salud asociados a la práctica regular de ciclismo superan ampliamente los riesgos de siniestro en la mayoría de análisis epidemiológicos.[^1]
 
 ***
 
@@ -279,7 +281,7 @@ Usando la aproximación \(p ≈ λ = \text{tasa} × \text{distancia}\) (válida 
 
 Para completar el cuadro, se añade el caso de un motorista bajo supuestos similares, usando como referencia tasas estadounidenses recientes:
 
-- Tasa de mortalidad de motoristas: **≈31 muertes / 100 millones de millas** recorridas, frente a **≈1,1 muertes / 100 millones de millas** para ocupantes de coche (≈28 veces más por unidad de distancia).[^32][^33][^34]
+- Tasa de mortalidad de motoristas: **≈31 muertes / 100 millones de millas** recorridas, frente a **≈1,1 muertes / 100 millones de millas** para ocupantes de coche (≈28 veces más por unidad de distancia).[^34][^32][^33]
 - En la UE, alrededor de **37%** de las muertes de motoristas son en accidentes unilaterales (sin otros vehículos ni peatones implicados).[^35]
 
 Usando los mismos **280 000 km** del ciclista delirante (≈174 000 millas):
